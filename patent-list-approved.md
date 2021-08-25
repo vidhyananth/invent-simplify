@@ -1,4 +1,4 @@
-# invent & simplify
+# Invent & Simplify
 
 patents-approved
 
