@@ -14,7 +14,7 @@ Power usage may also be reduced when it is determined that a time-critical task 
 cannot be completed within an estimated remaining device runtime, and the user can optionally be notified. 
 Overall this enhances the user experience and prolongs the usable battery power.
 
-===========================================================================================================================
+=========================================================================================
 
 DATE-BASED COMPUTING DEVICE CHARGE MANAGEMENT
 ---------------------------------------------
@@ -29,7 +29,7 @@ Additionally, a second time period until the battery reaches a 0V lockout state 
 A second notification is provided to the user to inform them of a date by which they should charge the device to avoid reaching the 0V lockout state, 
 which will render the battery unrecoverable and thus make the device unusable.
 
-===========================================================================================================================
+===========================================================================================
 
 EXPEDITED RESUME PROCESS FROM LOW BATTERY
 -----------------------------------------
