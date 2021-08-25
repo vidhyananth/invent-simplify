@@ -1,8 +1,6 @@
 NTI
 ---
-Echo Show - https://www.theverge.com/22297810/amazon-echo-show-10-2021-review
-
-Display, Camera, Power, Battery, IOT, Alexa Smart Home
+Echo Show NTI, Display, Camera, Power, Battery, IOT, Alexa Smart Home
 
 Kindle Oasis
 ------------
