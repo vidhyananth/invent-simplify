@@ -48,7 +48,7 @@ When the device wakes up while not charging, it displays a critical battery scre
 When the device wakes up while charging, it resumes from the snapshot and continues normal operation. 
 While the battery is below the critical threshold (e.g., 10%), the device indicates that it needs to be plugged in.
 
-===========================================================================================================================
+===========================================================================================
 
 DYNAMIC CURRENT DISTRIBUTION FOR PORTABLE ELECTRONIC DEVICES
 ------------------------------------------------------------
@@ -64,7 +64,7 @@ For example, if the e-reader device is connected to a wall charger and the auxil
 from the available current, to the battery via the e-reader device depending on the battery's charge level. 
 This ensures the most efficient use of available charging energy for optimal operation of the device.
 
-===========================================================================================================================
+===========================================================================================
 
 SYSTEMS AND METHODS FOR DYNAMIC CONFIGURATION AND CONTROL OF BUS INTERFACE
 --------------------------------------------------------------------------
@@ -77,7 +77,7 @@ In a data operation mode, the Whiskey device is able to communicate battery char
 This dual use of the SDA line of the I2C bus enables reduction in the number of the pins on the connector connecting the Whiskey and Soda device from five to four. 
 In an alternative embodiment, the serial clock line (SCL) can also be configured in a similar fashion. This reduces the cost of the device and increases reliability.
 
-===========================================================================================================================
+===========================================================================================
 
 SMART DIAGNOSTICS FOR HOT-PLUGGABLE BATTERY SYSTEMS
 ---------------------------------------------------
@@ -89,7 +89,7 @@ The diagnostics include determining whether the battery pack is dead, low on pow
 The device can also determine whether there is a mechanical fault in the electrical connection between the device and the battery pack. 
 Only after determining the battery pack is operational and authorized will the battery be charged from the external battery pack.
 
-===========================================================================================================================
+===========================================================================================
 
 DYNAMIC POWER OPTIMIZATION WHEN TRANSFERRING POWER BETWEEN BATTERIES
 --------------------------------------------------------------------
@@ -102,7 +102,7 @@ selectively ignores threshold transition signals, allowing the device to maintai
 A hardware interrupt that indicates a first battery is below a certain charge level can also cause the device to mask further such interrupts 
 until the first battery is sufficiently charged, thus preventing regular interruptions resulting from the low battery level.
 
-===========================================================================================================================
+===========================================================================================
 
 QUICK BOOT FROM HALT BY HALL SENSOR SMART COVER
 -----------------------------------------------
@@ -112,7 +112,7 @@ This patent relates to smart covers for tablets and e-reader devices that can be
 by automatically causing a device to enter a hibernate or suspend mode when the cover is closed over the device display. 
 When the cover is opened, the device is woken up. The covers can be customized so that a device won't enter a suspend or hibernate state until the cover has been closed for a user-specific length of time. The device state information and other configuration parameters are stored in the memory for quick boot-up from the sleep state.
 
-===========================================================================================================================
+===========================================================================================
 
 Adaptive Battery Management
 ---------------------------
@@ -123,7 +123,7 @@ The device is configured to make periodic assessments of battery capacity by mea
 during the execution of a power-consuming operation. If the measured DC resistance value reaches a threshold level, 
 the device can initiate a power-saving mode in which an operating parameter of the device is adjusted to decrease power consumption.
 
-===========================================================================================================================
+===========================================================================================
 
 LOW CAPACITY, LOW AREA-SPECIFIC RESISTANCE BATTERY CELL FOR ELECTRONIC DEVICES
 ------------------------------------------------------------------------------
@@ -134,9 +134,10 @@ Utilizing batteries having a DC resistance ASR less than or equal to about 55 Oh
 open circuit voltage or less than 85% state-of-charge can provide improved battery life, particular when the device experiences periodic spikes in high current draw. 
 Conventional small capacity batteries perform poorly during such spikes, which tends to cause such batteries to shut down prematurely.
 
-===========================================================================================================================
+===========================================================================================
 
 EVENT-BASED TRIGGER FOR MANAGING BATTERY CONSUMPTION
+----------------------------------------------------
 Patent dateIssued Dec 5, 2017  Patent issuer and numberus 9,836,114
 
 Patent descriptionThe patent relates to power management techniques for e-reader devices. 
@@ -146,7 +147,7 @@ DC resistance of the battery cell. If the calculated DC resistance is above a th
 a power-saving mode is initiated (e.g., a brightness of the display is decreased or a transmission power of the e-book reader is reduced). 
 Operations that produce a consistent power load signature, such as page turn operations, are particularly well-suited for this type of monitoring.
 
-===========================================================================================================================
+===========================================================================================
 
 DYNAMIC CURRENT REDISTRIBUTION FOR PORTABLE ELECTRONIC DEVICES
 --------------------------------------------------------------
@@ -158,7 +159,7 @@ Often times, wall adapters may be able to provide more current than what is bein
 the maximum current a wall adapter can provide is supplied to devices, such that the device batteries can be charged as fast as possible, 
 resulting in an improved user experience.
 
-===========================================================================================================================
+===========================================================================================
 
 SELECTIVE POWERING OFF OF HARDWARE COMPONENTS FOR BATTERY MANAGEMENT IN MOBILE DEVICES
 --------------------------------------------------------------------------------------
@@ -169,7 +170,7 @@ activity information associated with the hardware component. The processing devi
 based on the activity level and a power consumption value of the hardware component, wherein the power consumption value indicates 
 an amount of power used by the hardware component. The processing device determines whether to deactivate the hardware component based on the score.
 
-===========================================================================================================================
+===========================================================================================
 
 Unique Event Identification
 ---------------------------
@@ -182,7 +183,7 @@ The centralized UEID storage may be further configured to associate, using the U
 the type of the event with one or more callback functions of one or more client modules. 
 Upon occurrence of the type of the event, the callback functions may be identified and invoked using the UEID.
 
-===========================================================================================================================
+===========================================================================================
 
 System and Method for Photo-Image Discovery and Storage
 -------------------------------------------------------
@@ -195,7 +196,7 @@ A determination is made of whether the detected photo-capable devices have store
 which may be either still or video images. The photo-images are acquired into the photo-image discovery device. 
 Then, the acquired photo-images are automatically uploaded to a network-connected storage site.
 
-===========================================================================================================================
+===========================================================================================
 
 System and Method for Virtual Kiosk Stored Photo-image Reproduction
 -------------------------------------------------------------------
@@ -211,5 +212,5 @@ The storage site is accessed from the photo discovery device in response to a fi
 In response to a second user prompt, a stored photo-image is selected. 
 In one aspect a delivery option for the selected photo-image is selected in response to an additional user prompt.
 
-===========================================================================================================================
+===========================================================================================
 
