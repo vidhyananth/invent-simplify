@@ -1,2 +1,0 @@
-# invent-simplify
-patents-approved
