@@ -1,4 +1,5 @@
-# invent-simplify
+# invent & simplify
+
 patents-approved
 
 METHOD FOR DETERMINING BATTERY AVAILABLE POWER FOR AN ELECTRONIC DEVICE
