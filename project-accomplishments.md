@@ -4,6 +4,7 @@ Amazon Astro - Household consumer robot - Home monitoring, Alexa on wheels with 
 https://www.aboutamazon.com/news/devices/meet-astro-a-home-robot-unlike-any-other
 
 Science behind Astro - https://www.youtube.com/watch?v=YiHE5y1L2Bk
+
 https://arstechnica.com/gadgets/2021/09/amazons-astro-robot-is-straight-out-of-the-jetsons/
 
 
