@@ -1,3 +1,19 @@
+SiMa.ai - Palette Edgematic
+---------------------------
+Empowering Your AI Vision at the Edge with Palette Edgematic Software
+https://sima.ai/empowering-your-ai-vision-at-the-edge-with-palette-edgematic-software/
+
+SiMa.ai Launches Palette Edgematic on AWS Marketplace, Scaling Low Code Development for AI-ML at the Edge
+https://sima.ai/sima-ai-launches-palette-edgematic-on-aws-marketplace-scaling-low-code-development-for-ml-at-the-edge/
+
+SiMa.ai - MLSoC Modalix
+-----------------------
+An Engineering Deep Dive on SiMa.ai MLSoC Modalix
+https://sima.ai/an-engineering-deep-dive-on-sima-ai-mlsoc-modalix/
+
+SiMa.ai Expands ONE Platform for Edge AI with Modalix, a New Product Family for Generative AI
+https://sima.ai/sima-ai-expands-one-platform-for-edge-ai-with-mlsoc-modalix/
+
 Astro - Robot
 -------------
 Amazon Astro - Household consumer robot - Home monitoring, Alexa on wheels with intelligent motion
