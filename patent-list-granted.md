@@ -2,9 +2,21 @@
 
 patents-approved
 
+System for arbitration of concurrent application access to single sensor
+------------------------------------------------------------------------
+US 12073617 B1 · Issued Aug 27, 2024US 12073617 B1 · Issued Aug 27, 2024
+A device, such as an autonomous mobile device (AMD), includes sensors such as a camera. 
+Multiple applications executing on the device may concurrently use sensor data from a single shared sensor. 
+For example, a first application may use image data to localize the AMD while a second application uses the image data to recognize users. 
+The first application and the second application may have different parameters for operation of the sensor or resulting sensor data, such as different image resolutions and frame rates. 
+An arbitrator system manages these different parameters, and may also provide sensor data to the respective application that is consistent with the application's parameters. 
+For example, different resolutions of image data may be provided to different applications based on their parameters.
+
+=========================================================================================
+
 METHOD FOR DETERMINING BATTERY AVAILABLE POWER FOR AN ELECTRONIC DEVICE
 -----------------------------------------------------------------------
-Patent dateIssued Jan 5, 2021  Patent issuer and number US10884475B1
+Patent date Issued Jan 5, 2021  Patent issuer and number US10884475B1
 
 This patent relates to accurate calculation of battery resistance that enables better power management for portable devices. 
 The battery resistance estimation is performed using a recursive updating algorithm. Once determined, 
